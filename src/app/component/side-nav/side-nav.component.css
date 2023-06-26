@@ -1,0 +1,13 @@
+nav{
+  min-height: 100vh;
+}
+
+.full{
+  width: 300px;
+  background-color: red;
+}
+
+.closed{
+  width: 100px;
+
+}
